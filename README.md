@@ -3,6 +3,8 @@
 There are some example of this method.
 
 
+| images | sky areas|
+|----|----|
 | <img src="pic/1.bmp" width="300"/> | <img src="pic/1_sky.bmp" width="300"/> |
 | <img src="pic/2.bmp" width="300"/> | <img src="pic/2_sky.bmp" width="300"/> |
 | <img src="pic/3.bmp" width="300"/> | <img src="pic/3_sky.bmp" width="300"/> |
